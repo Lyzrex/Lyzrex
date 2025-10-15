@@ -46,6 +46,14 @@
 
 ---
 
+
+### 🏆 Most active repositories
+<p align="center">
+  <img src="https://github-readme-stats-weld-nine-90.vercel.app/api/top-repos?username=Lyzrex" />
+</p>
+
+---
+
 ### 🏗️ Current Projects
 - 🧩 **LythCore** – modular plugin framework with API integration  
 - ⚡ **LythCore-Lobby** – join & player management system  
