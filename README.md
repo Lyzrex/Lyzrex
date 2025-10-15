@@ -1,23 +1,23 @@
 <h1 align="center">👋 Hey, I'm Tommy — aka Lyzrex</h1>
 
 <p align="center">
-  <b>Full-stack & Java developer</b> focused on <b>modular architecture, performance</b> and <b>clean code</b>.<br>
-  Passionate about scalable backend systems and continuous improvement.
+  <b>Full-stack developer</b> with a focus on <b>Java, CSS, and PHP</b>.  
+  Passionate about building clean, efficient and modular systems — from backend APIs to front-end interfaces.
 </p>
 
 ---
 
 ### 🧠 About Me
-- 💻 I develop **Java-based systems**, **Minecraft server plugins**, and **backend APIs**.  
-- ⚙️ Experienced with **C++**, **PHP**, **HTML/CSS/JS**, and **MySQL**.  
-- 🧩 I focus on **structure, maintainability, and performance** in every project.  
-- 🚀 Constantly learning, building, and improving.
+- 💻 I build projects using **Java**, **CSS**, **PHP**, **HTML**, **MySQL** and a bit of **JavaScript**.  
+- ⚙️ I use **IntelliJ IDEA Ultimate**, **Visual Studio**, and **VS Code** as my main environments.  
+- 🧩 I focus on **structure**, **maintainability**, and **performance** in every line of code.  
+- 🚀 Constantly learning, improving, and refining my craft.
 
 ---
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,php,html,css,js,mysql,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,php,css,html,js,mysql,git,github,idea,vscode,visualstudio" />
 </p>
 
 ---
@@ -25,20 +25,20 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lyzrex&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzrex&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzrex&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
 </p>
 
 ---
 
 ### 🏗️ Current Projects
-- 🧩 **LythCore** — modular plugin framework with API integration  
-- ⚡ **LythCore-Lobby** — join and player management system  
-- 💾 **LythCore-API** — shared backend for modular components  
+- 🧩 **LythCore** – modular plugin framework with API integration  
+- ⚡ **LythCore-Lobby** – join & player management system  
+- 💾 **LythCore-API** – shared backend for modular components  
 
 ---
 
 ### 💬 Motto
-> “Discipline, structure, and progress — every line of code should reflect improvement.”
+> “Clean code, strong structure, and constant progress — that’s how great systems grow.”
 
 ---
 
