@@ -83,10 +83,10 @@
 | Type | Tools |
 |------|-------|
 | **Programming** | Java · PHP · JavaScript · HTML · CSS |
-| **Database** | MySQL · JDBC · HikariCP |
+| **Database** | MySQL · MariaDB · MongoDB |
 | **IDE** | IntelliJ IDEA Ultimate · VS Code · Visual Studio |
 | **Version Control** | Git · GitHub · Vercel CI/CD |
-| **OS / Servers** | Ubuntu · PaperMC · Velocity · Docker |
+| **OS / Servers** | Ubuntu · Debian · PaperMC · PurPur · Velocity |
 
 ---
 
