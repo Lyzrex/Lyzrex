@@ -92,7 +92,7 @@
 
 ### 💬 Quote
 > “Clean structure creates freedom.  
->  Chaos kills creativity — discipline amplifies it.”
+>  Chaos kills creativity, discipline amplifies it.”
 
 ---
 
