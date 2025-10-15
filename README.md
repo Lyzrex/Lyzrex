@@ -1,5 +1,4 @@
-<!-- ─────────────────────────────── -->
-<h1 align="center">👋 Hey, I'm Tommy — aka Lyzrex</h1>
+<h1 align="center">👋 Hey, I'm Tommy - aka Lyzrex</h1>
 
 <p align="center">
   <b>Full-stack Developer</b> · Building clean, scalable and high-performance systems.<br/>
