@@ -63,7 +63,7 @@
 |----------|--------------|-------|
 | [LythCore](https://github.com/Lyzrex/LythCore) | Modular backend plugin framework for Minecraft | Java · MySQL · Velocity · Paper |
 | [Modulix](https://github.com/Lyzrex/Modulix) | Core modular API for plugin systems | Java · API · MySQL |
-| [MurmelAPI](https://github.com/Lyzrex/MurmelAPI) | Lightweight player & group management system | Java · MySQL |
+| [LythCore-API](https://github.com/Lyzrex/LythCore-API) | Lightweight player & group management system | Java · MySQL |
 | [Website-Necronic](https://github.com/Lyzrex/Website-Necronic) | Responsive site for Necronic Network | HTML · CSS · PHP |
 
 ---
