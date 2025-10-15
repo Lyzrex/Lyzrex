@@ -47,10 +47,11 @@
 ---
 
 
-### 🏆 Most active repositories
+### 🏆 Most active repositories (last 52 weeks)
 <p align="center">
-  <img src="https://github-readme-stats-weld-nine-90.vercel.app/api/top-repos?username=Lyzrex" />
+  <img src="https://github-readme-stats-weld-nine-90.vercel.app/api/top-repos?username=Lyzrex&v=1" />
 </p>
+
 
 ---
 
