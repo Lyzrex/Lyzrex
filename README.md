@@ -1,17 +1,16 @@
 <h1 align="center">👋 Hey, I'm Tommy — aka Lyzrex</h1>
 
 <p align="center">
-  <b>Full-stack developer</b> with a focus on <b>Java, CSS, and PHP</b>.  
-  Passionate about building clean, efficient and modular systems — from backend APIs to front-end interfaces.
+  <b>Full-stack developer</b> focused on <b>Java, CSS, PHP</b> and clean, modular systems.<br/>
+  I care about structure, performance, and maintainability.
 </p>
 
 ---
 
 ### 🧠 About Me
-- 💻 I build projects using **Java**, **CSS**, **PHP**, **HTML**, **MySQL** and a bit of **JavaScript**.  
-- ⚙️ I use **IntelliJ IDEA Ultimate**, **Visual Studio**, and **VS Code** as my main environments.  
-- 🧩 I focus on **structure**, **maintainability**, and **performance** in every line of code.  
-- 🚀 Constantly learning, improving, and refining my craft.
+- Build with **Java**, **CSS**, **PHP**, **HTML**, **MySQL**, plus a bit of **JavaScript**
+- Tools: **IntelliJ IDEA Ultimate**, **VS Code**, **Visual Studio**, **GitHub**
+- Principles: clean code · structure · performance
 
 ---
 
@@ -23,50 +22,27 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img height="170em"
-       src="https://github-readme-stats-weld-nine-90.vercel.app/api?username=Lyzrex&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=4" />
-  <img height="170em"
-       src="https://github-readme-stats-weld-nine-90.vercel.app/api/top-langs/?username=Lyzrex&layout=compact&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800&v=4" />
+  <img height="170em" src="https://github-readme-stats-weld-nine-90.vercel.app/api?username=Lyzrex&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=4" />
+  <img height="170em" src="https://github-readme-stats-weld-nine-90.vercel.app/api/top-langs/?username=Lyzrex&layout=compact&theme=github_dark&hide_border=true&count_private=true&cache_seconds=1800&v=4" />
 </p>
 
 ---
-
-### 🔥 Streaks & Activity
-
-<p align="center">
-  <img height="170em"
-       src="https://streak-stats.demolab.com?user=Lyzrex&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lyzrex&theme=react-dark&hide_border=true" />
-</p>
-
----
-
 
 ### 🏆 Most active repositories (last 52 weeks)
 <p align="center">
-  <img src="https://github-readme-stats-weld-nine-90.vercel.app/api/top-repos?username=Lyzrex&v=3" />
+  <!-- List-Variante -->
+  <img src="https://github-readme-stats-weld-nine-90.vercel.app/api/top-repos?username=Lyzrex&limit=12&show=5&theme=github_dark&accent=%2300d0ff&v=5" />
 </p>
 
-
----
-
-### 🏗️ Current Projects
-- 🧩 **LythCore** – modular plugin framework with API integration  
-- ⚡ **LythCore-Lobby** – join & player management system  
-- 💾 **LythCore-API** – shared backend for modular components  
+<!-- Optional: Balken-Variante statt Liste -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats-weld-nine-90.vercel.app/api/top-repos?username=Lyzrex&limit=12&show=5&bar=true&theme=github_dark&accent=%2300d0ff&v=5" />
+</p>
+-->
 
 ---
 
 ### 💬 Motto
-> “Clean code, strong structure, and constant progress — that’s how great systems grow.”
-
----
-
-<p align="center">
-  <a href="https://github.com/Lyzrex?tab=repositories">📁 View my repositories</a>
-</p>
+> Clean code. Strong structure. Constant progress.
