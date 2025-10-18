@@ -11,7 +11,7 @@
 - 💻 4+ years experience in **Java**, **Bukkit/Spigot**, **Backend APIs**, and **Web Systems**
 - 🧠 Skilled in **OOP**, **SQL optimization**, and **plugin modularization**
 - 🌐 Building structured, scalable ecosystems (e.g. <b>Necronic</b>, <b>LythCore</b>)
-- 🛠 Using **IntelliJ IDEA Ultimate**, **SQL Workbench**, **GitHub Actions**
+- 🛠 Using **IntelliJ IDEA Ultimate**, **SQL**, **GitHub Actions**
 - 🚀 Passion for performance, automation, and clean architecture
 - 🎯 Goal: perfection through structure, discipline, and constant improvement
 
@@ -83,7 +83,7 @@
 | **Programming** | Java · PHP · JavaScript · HTML · CSS |
 | **Database** | MySQL · MariaDB · MongoDB |
 | **IDE** | IntelliJ IDEA Ultimate · Visual Studio |
-| **Version Control** | Git · GitHub · Vercel CI/CD |
+| **Version Control** | Git · GitHub |
 | **OS / distro / Servers** | Linux · Ubuntu · Debian · PaperMC · PurPur (forks) · Velocity |
 
 ---
