@@ -84,7 +84,7 @@
 | **Database** | MySQL · MariaDB · MongoDB |
 | **IDE** | IntelliJ IDEA Ultimate · Visual Studio |
 | **Version Control** | Git · GitHub · Vercel CI/CD |
-| **distribution / Servers** | Ubuntu · Debian · PaperMC · PurPur (forks) · Velocity |
+| **OS / distro / Servers** | Linux · Ubuntu · Debian · PaperMC · PurPur (forks) · Velocity |
 
 ---
 
