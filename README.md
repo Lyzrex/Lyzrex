@@ -74,7 +74,6 @@
 - Database schema management & caching (SQL, Redis planned)
 - Custom configuration systems (YAML, JSON, File-Wrappers)
 - Cross-server architecture (Velocity)
-- CI/CD with GitHub Actions + Vercel auto-deploy
 
 ---
 
@@ -83,9 +82,9 @@
 |------|-------|
 | **Programming** | Java · PHP · JavaScript · HTML · CSS |
 | **Database** | MySQL · MariaDB · MongoDB |
-| **IDE** | IntelliJ IDEA Ultimate · VS Code · Visual Studio |
+| **IDE** | IntelliJ IDEA Ultimate · Visual Studio |
 | **Version Control** | Git · GitHub · Vercel CI/CD |
-| **OS / Servers** | Ubuntu · Debian · PaperMC · PurPur · Velocity |
+| **distribution / Servers** | Ubuntu · Debian · PaperMC · PurPur (forks) · Velocity |
 
 ---
 
