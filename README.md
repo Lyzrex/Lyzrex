@@ -11,7 +11,7 @@
 - 💻 4+ years experience in **Java**, **Bukkit/Spigot**, **Backend APIs**, and **Web Systems**
 - 🧠 Skilled in **OOP**, **SQL optimization**, and **plugin modularization**
 - 🌐 Building structured, scalable ecosystems (e.g. <b>Necronic</b>, <b>LythCore</b>)
-- 🛠 Using **IntelliJ IDEA Ultimate**, **MySQL Workbench**, **GitHub Actions**
+- 🛠 Using **IntelliJ IDEA Ultimate**, **SQL Workbench**, **GitHub Actions**
 - 🚀 Passion for performance, automation, and clean architecture
 - 🎯 Goal: perfection through structure, discipline, and constant improvement
 
@@ -50,7 +50,7 @@
 | Category | Description |
 |-----------|--------------|
 | 🧩 **Core Development** | Expanding <b>LythCore</b> modular API for Minecraft servers |
-| 🧱 **System Design** | Clean code architecture, optimized MySQL handling |
+| 🧱 **System Design** | Clean code architecture, optimized SQL handling |
 | 💼 **Projects** | Rebuilding project structure for maintainability and scalability |
 | ⚙️ **Automation** | Task & event-driven architecture, service-based design |
 | 🌍 **Language** | English-first for international scalability |
@@ -60,9 +60,9 @@
 ### 📦 Featured Projects
 | Project | Description | Stack |
 |----------|--------------|-------|
-| [LythCore](https://github.com/Lyzrex/LythCore) | Modular backend plugin framework for Minecraft | Java · MySQL · Velocity · Paper |
-| [Modulix](https://github.com/Lyzrex/Modulix) | Core modular API for plugin systems | Java · API · MySQL |
-| [LythCore-API](https://github.com/Lyzrex/LythCore-API) | Lightweight player & group management system | Java · MySQL |
+| [LythCore](https://github.com/Lyzrex/LythCore) | Modular backend plugin framework for Minecraft | Java · SQL · Velocity · Paper |
+| [Modulix](https://github.com/Lyzrex/Modulix) | Core modular API for plugin systems | Java · API · SQL |
+| [LythCore-API](https://github.com/Lyzrex/LythCore-API) | Lightweight player & group management system | Java · SQL |
 | [Website-Necronic](https://github.com/Lyzrex/Website-Necronic) | Responsive site for Necronic Network | HTML · CSS · PHP |
 
 ---
@@ -71,9 +71,9 @@
 - Object-oriented programming, modular plugin design
 - Asynchronous event handling, Bukkit scheduler optimization
 - RESTful API design and token-based authentication
-- Database schema management & caching (MySQL, Redis planned)
+- Database schema management & caching (SQL, Redis planned)
 - Custom configuration systems (YAML, JSON, File-Wrappers)
-- Cross-server architecture (BungeeCord, Velocity)
+- Cross-server architecture (Velocity)
 - CI/CD with GitHub Actions + Vercel auto-deploy
 
 ---
